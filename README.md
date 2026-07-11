@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-hackernews/brand/main/social/go-hackernews.png" alt="go-hackernews/hackernews" width="720"></p>
+
 # hackernews
 
 [![CI](https://github.com/go-hackernews/hackernews/actions/workflows/ci.yml/badge.svg)](https://github.com/go-hackernews/hackernews/actions/workflows/ci.yml)
