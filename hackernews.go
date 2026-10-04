@@ -178,7 +178,7 @@ func (c *Client) Stories(ctx context.Context, kind StoryKind, limit int) ([]Item
 	jobs := make(chan job)
 
 	var (
-		mu      sync.Mutex
+		mu       sync.Mutex
 		firstErr error
 	)
 	setErr := func(err error) {
